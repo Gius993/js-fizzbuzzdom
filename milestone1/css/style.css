@@ -29,3 +29,12 @@ h1{
 	align-items: center;
 	justify-content: center;
 }
+.green{
+	background-color: green;
+}
+.yellow{
+	background-color: yellow;
+}
+.red{
+	background-color: red;
+}
