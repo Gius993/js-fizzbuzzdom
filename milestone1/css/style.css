@@ -29,6 +29,7 @@ h1{
 	align-items: center;
 	justify-content: center;
 }
+/**
 .green{
 	background-color: green;
 }
@@ -38,3 +39,4 @@ h1{
 .red{
 	background-color: red;
 }
+**/
